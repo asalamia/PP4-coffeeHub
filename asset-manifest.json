@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PP4-coffeeHub.git/static/css/main.dbeb320d.css",
+    "main.js": "/PP4-coffeeHub.git/static/js/main.b27ac2a7.js",
+    "static/js/453.76d77046.chunk.js": "/PP4-coffeeHub.git/static/js/453.76d77046.chunk.js",
+    "index.html": "/PP4-coffeeHub.git/index.html",
+    "main.dbeb320d.css.map": "/PP4-coffeeHub.git/static/css/main.dbeb320d.css.map",
+    "main.b27ac2a7.js.map": "/PP4-coffeeHub.git/static/js/main.b27ac2a7.js.map",
+    "453.76d77046.chunk.js.map": "/PP4-coffeeHub.git/static/js/453.76d77046.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbeb320d.css",
+    "static/js/main.b27ac2a7.js"
+  ]
+}
